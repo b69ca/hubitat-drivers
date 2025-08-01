@@ -1,6 +1,6 @@
 /**
  *
- *  ****************  NWS Outside Temperature Sensor  ****************
+ *  ****************  NWS Outside Temperature Driver  ****************
  *
  *  importUrl: https://raw.githubusercontent.com/b69ca/hubitat-drivers/main/nws-outside-temperature.groovy
  *
